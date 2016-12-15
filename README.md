@@ -1,2 +1,2 @@
 # MetSensor
-Combined DHT22/BMP(E)280 Python
+Combined DHT22/BMP(E)280 Python code
